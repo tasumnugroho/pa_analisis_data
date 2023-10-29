@@ -25,6 +25,4 @@ streamlit run Dashboard.py
 ## Hasil Running (URL)
 
 
-```python
 ![Gambar Dashboard](/dashboard/dashboard.jpg "Gambar hasil")
-```
